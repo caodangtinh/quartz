@@ -1,4 +1,4 @@
-package com.tinhcao;
+package com.tinhcao.lession1;
 
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
